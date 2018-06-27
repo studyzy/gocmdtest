@@ -1,0 +1,2 @@
+# gocmdtest
+go cmd tools
